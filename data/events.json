@@ -1,0 +1,61 @@
+{
+    "honap": 12,
+    "esemenyek": [
+      {
+        "nap": "01",
+        "helyszin": "Pelda_Helyszin",
+        "bulinev": "Pelda_Bulinev",
+        "varos": "Pelda_Varos",
+        "link": "https://www.facebook.com/?locale=hu_HU"
+      },
+      {
+        "nap": "05",
+        "helyszin": "Pelda_Helyszin2",
+        "bulinev": "Pelda_Bulinev2",
+        "varos": "Pelda_Varos",
+        "link": "https://www.facebook.com/?locale=hu_HU"
+      },
+      {
+        "nap": "10",
+        "helyszin": "Pelda_Helyszin3",
+        "bulinev": "Pelda_Bulinev3",
+        "varos": "Pelda_Varos",
+        "link": "https://www.facebook.com/?locale=hu_HU"
+      },
+      {
+        "nap": "13",
+        "helyszin": "Pelda_Helyszin4",
+        "bulinev": "Pelda_Bulinev4",
+        "varos": "Pelda_Varos",
+        "link": "https://www.facebook.com/?locale=hu_HU"
+      },
+      {
+        "nap": "15",
+        "helyszin": "Pelda_Helyszin5",
+        "bulinev": "Pelda_Bulinev5",
+        "varos": "Pelda_Varos",
+        "link": "https://www.facebook.com/?locale=hu_HU"
+      },
+      {
+        "nap": "20",
+        "helyszin": "Pelda_Helyszin6",
+        "bulinev": "Pelda_Bulinev6",
+        "varos": "Pelda_Varos",
+        "link": "https://www.facebook.com/?locale=hu_HU"
+      },
+      {
+        "nap": "20",
+        "helyszin": "Pelda_Helyszin6",
+        "bulinev": "Pelda_Bulinev6",
+        "varos": "Pelda_Varos",
+        "link": "https://www.facebook.com/?locale=hu_HU"
+      },
+      {
+        "nap": "20",
+        "helyszin": "Pelda_Helyszin6",
+        "bulinev": "Pelda_Bulinev6",
+        "varos": "Pelda_Varos",
+        "link": "https://www.facebook.com/?locale=hu_HU"
+      }
+    ]
+  }

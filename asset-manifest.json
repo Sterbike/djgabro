@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/djgabro/static/css/main.d2f09fb8.css",
+    "main.js": "/djgabro/static/js/main.a5ec65bc.js",
+    "static/media/hatter.png": "/djgabro/static/media/hatter.c78b5541a0edc21868b5.png",
+    "index.html": "/djgabro/index.html",
+    "main.d2f09fb8.css.map": "/djgabro/static/css/main.d2f09fb8.css.map",
+    "main.a5ec65bc.js.map": "/djgabro/static/js/main.a5ec65bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2f09fb8.css",
+    "static/js/main.a5ec65bc.js"
+  ]
+}
