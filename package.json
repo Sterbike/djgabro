@@ -1,7 +1,7 @@
 {
   "name": "djgabro",
   "version": "0.1.0",
-  "homepage": "https://sterbike.github.io/djgabro",
+  "homepage": "https://Sterbike.github.io/djgabro",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^2.2.0",
