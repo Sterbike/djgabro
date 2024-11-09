@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/djgabro/static/css/main.d2f09fb8.css",
-    "main.js": "/djgabro/static/js/main.dfc7d25a.js",
+    "main.js": "/djgabro/static/js/main.71d0fda6.js",
     "static/media/hatter.png": "/djgabro/static/media/hatter.c78b5541a0edc21868b5.png",
     "index.html": "/djgabro/index.html",
     "main.d2f09fb8.css.map": "/djgabro/static/css/main.d2f09fb8.css.map",
-    "main.dfc7d25a.js.map": "/djgabro/static/js/main.dfc7d25a.js.map"
+    "main.71d0fda6.js.map": "/djgabro/static/js/main.71d0fda6.js.map"
   },
   "entrypoints": [
     "static/css/main.d2f09fb8.css",
-    "static/js/main.dfc7d25a.js"
+    "static/js/main.71d0fda6.js"
   ]
 }
