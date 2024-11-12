@@ -16,7 +16,7 @@ const Events = () => {
 
   useEffect(() => {
     setIsloading(true)
-    fetch("/data/events.json")
+    fetch("./data/events.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Hiba a JSON fájl lekérésekor.");

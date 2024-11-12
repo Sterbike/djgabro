@@ -22,7 +22,7 @@ const Main = () => {
 
   useEffect(() => {
     setIsloading(true)
-    fetch("/data/data.json")
+    fetch("./data/data.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Hiba a JSON fájl lekérésekor.");
@@ -45,9 +45,9 @@ const Main = () => {
         <div className="text-center">
           <img
             onClick={() => setSelectedMenu(0)}
-            src="/data/logo_white.png"
+            src="./data/logo_white.png"
             alt="logo_white"
-            className="lg:w-1/4 md:w-3/6 w-10/12 h-max m-auto lg:pt-14 pt-24 py-6 cursor-pointer"
+            className="lg:w-1/4 md:w-3/6 w-10/12 m-auto lg:pt-14 pt-24 py-6 cursor-pointer"
           />
           <div
             id="link_container_lg"

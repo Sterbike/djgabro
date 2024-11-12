@@ -3,9 +3,9 @@ import Main from './pages/Main';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={window.location.pathname || ''}>
         <Routes>
-          <Route path="/" element={<Main />}/>
+          <Route exact path="/" element={<Main />}/>
         </Routes>
       </BrowserRouter>
     </div>
